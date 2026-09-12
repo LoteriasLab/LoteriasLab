@@ -55,7 +55,7 @@ La descarga oficial estará disponible desde **GitHub Releases**.
 
 Cuando exista un release publicado:
 
-`https://github.com/TU_USUARIO/LoteriasLab/releases/latest`
+`https://github.com/LoteriasLab/LoteriasLab/releases/latest`
 
 > No descargues LoteriasLab desde sitios de terceros que no estén enlazados desde este repositorio.
 
