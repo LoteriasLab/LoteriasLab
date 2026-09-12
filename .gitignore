@@ -1,0 +1,33 @@
+# Builds y ejecutables de trabajo
+build/
+dist/
+*.spec
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Bases de datos y runtime
+*.db
+*.db-wal
+*.db-shm
+*.log
+
+# Licencias y seguridad
+*.lic
+*.key
+loteriaslab_vendor_private.key
+loteriaslab_license_admin*.py
+
+# Configuración privada
+loteriaslab_commercial.json
+
+# Backups y actualizaciones locales
+backups/
+backups_test/
+updates/
+
+# Archivos temporales
+*.tmp
+*.part
