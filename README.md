@@ -106,6 +106,17 @@ Elegí Más información.
 Verificá que el archivo descargado sea LoteriasLab_Setup_v4t.exe.
 Elegí Ejecutar de todas formas.
 
+Si Windows pregunta con qué programa abrir la solicitud de licencia cuando desea adquirir el producto
+Al presionar Solicitar licencia, LoteriasLab abre un formulario web de Tally.
+
+Si Windows muestra una lista de aplicaciones para elegir:
+
+Seleccioná tu navegador habitual, por ejemplo Google Chrome, Microsoft Edge o Firefox.
+Si aparece la opción Usar siempre esta aplicación, podés marcarla para que Windows recuerde tu elección.
+El formulario de solicitud de licencia se abrirá en el navegador.
+
+Si no tenés un navegador configurado como predeterminado, podés hacerlo desde Configuración de Windows → Aplicaciones → Aplicaciones predeterminadas.
+
 ## Licencia
 
 LoteriasLab es software propietario. Este repositorio público se utiliza para documentación, seguimiento y distribución de versiones compiladas.
