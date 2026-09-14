@@ -98,6 +98,14 @@ Para errores o sugerencias podés utilizar **Issues** en este repositorio.
 
 Las solicitudes de licencia Personal o renovación se realizan desde el propio programa.
 
+Si Windows muestra “Windows protegió su PC”
+
+En las primeras versiones, Windows SmartScreen puede mostrar una advertencia mientras el ejecutable todavía no haya acumulado reputación suficiente.
+
+Elegí Más información.
+Verificá que el archivo descargado sea LoteriasLab_Setup_v4t.exe.
+Elegí Ejecutar de todas formas.
+
 ## Licencia
 
 LoteriasLab es software propietario. Este repositorio público se utiliza para documentación, seguimiento y distribución de versiones compiladas.
